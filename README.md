@@ -8,4 +8,5 @@ Due to variations in production capacity and manufacturing cost between months, 
 # Objective
 Simple example of operations research application. The problem objective is to minimize the production cost.
 
-You can find the problem solution using PULP library in Python [here](Solution.ipynb).
+# Solution
+You can access the problem solution [here](Solution.ipynb).
