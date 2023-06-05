@@ -8,4 +8,4 @@ Maria Benz produces passenger cars for the local market and for export to variou
 
 Due to variations in production capacity and manufacturing cost between months, the company can produce some monoblocks one month or more before they are scheduled. The disadvantage is that such monoblocks have to be stored until the month they will be consumed, at a unit storage cost of $ 200.00/month. The production manager wants to know how many monoblocks should be produced each month in order to meet the demand at the lowest possible production and storage cost. Model this issue as a transportation problem and solve it using Solver.
 
-See the problem solution using PULP library in Python here ![here](Solution.ipynb)
+See the problem solution using PULP library in Python here [here](Solution.ipynb)
