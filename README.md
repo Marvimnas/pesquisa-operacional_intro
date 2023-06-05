@@ -1,4 +1,4 @@
-# Introductory Operations Research Problem
+# Objetive
 Simple example of operations research application. The problem objective is to minimize the production cost.
 
 # Problem Statement (Lachtermacher, 2007)
