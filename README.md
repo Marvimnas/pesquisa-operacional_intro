@@ -1,7 +1,7 @@
 # Operations-Research
 Simple example of operations research application. The problem objective is to minimize the production cost.
 
-# Problem (Lachtermacher, 2007)
+# Problem Statement (Lachtermacher, 2007)
 Maria Benz produces passenger cars for the local market and for export to various countries. The first stage of the production process is to manufacture the monoblocks, which are then made available to the production line for assembly of other parts. Maria Benz wants to schedule production for the next three months. The estimated demands, production capacity, and unit production cost for each of the months in question are illustrated in the following table. 
 
 ![Data table](Data-table.png)
