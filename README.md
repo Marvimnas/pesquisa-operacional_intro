@@ -9,4 +9,4 @@ Due to variations in production capacity and manufacturing cost between months, 
 Simple example of operations research application. The problem objective is to minimize the production cost.
 
 # Solution
-You can access the problem solution [here](Solution.ipynb).
+You can access the problem solution [here](Atividade0_1_MQG.ipynb).
